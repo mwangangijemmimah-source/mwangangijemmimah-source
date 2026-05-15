@@ -18,7 +18,7 @@ to stakeholders.
 - SQL (PostgreSQL)
 - Python (Pandas, NumPy, Matplotlib)
 
-  **🔧 Tools & Platforms**
+**🔧 Tools & Platforms**
 - Git & GitHub
 - Jupyter Notebook
 - VS Code
