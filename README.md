@@ -43,5 +43,5 @@ to stakeholders.
 
 Let's Connect
 
-- 💼 LinkedIn: [Jemimimah Mwangangi]
+- 💼 LinkedIn: Jemimimah Mwangangi
 -  📧 Email:mwangangijemmimah@gmail.com
