@@ -4,7 +4,9 @@ Data Analyst | Turning Raw Data into Business Decisions
 📍 Nairobi, Kenya  
 💼 Open to Data Analyst roles & freelance projects
 
+
 💡 About Me
+
 I am a **Data Analyst with hands-on experience since January 2025**, 
 specialising in transforming complex datasets into clear, actionable insights 
 that drive business growth
@@ -15,6 +17,7 @@ cleaning and querying data to building dashboards and presenting findings
 to stakeholders.
 
 💻 Languages**
+
 - SQL (PostgreSQL)
 - Python (Pandas, NumPy, Matplotlib)
 
@@ -26,6 +29,7 @@ to stakeholders.
 - pgAdmin 4 (PostgreSQL)
 
  **Certifications**
+ 
 | Google Data Analytics Professional Certificate | Google / Coursera | 2026|
 | IBM Data Analyst Professional Certificate | IBM / Coursera | 2026 |
 
