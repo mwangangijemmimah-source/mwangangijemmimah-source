@@ -7,7 +7,7 @@ Data Analyst | Turning Raw Data into Business Decisions
 
 💡 About Me
 
-I am a **Data Analyst with hands-on experience since January 2025**, 
+I am a **Data Analyst with hands-on experience since January 2026**, 
 specialising in transforming complex datasets into clear, actionable insights 
 that drive business growth
 
@@ -31,6 +31,7 @@ to stakeholders.
  **Certifications**
  
 | Google Data Analytics Professional Certificate | Google / Coursera | 2026|
+
 | IBM Data Analyst Professional Certificate | IBM / Coursera | 2026 |
 
 ## 📈 What I Can Do For You
